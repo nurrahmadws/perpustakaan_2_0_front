@@ -1,0 +1,20 @@
+/****************************/
+/** Imports Plugin css **/
+/****************************/
+@import url(../assets/vendor_components/bootstrap/css/bootstrap.css);
+@import url(../assets/vendor_components/datatable/datatables.min.css);
+@import url(../assets/vendor_components/Magnific-Popup-master/dist/magnific-popup.css);
+@import url(../assets/vendor_components/select2/dist/css/select2.min.css);
+@import url(../assets/vendor_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css);
+@import url(../assets/vendor_components/jquery-toast-plugin-master/src/jquery.toast.css);
+
+
+@import url(../assets/vendor_plugins/iCheck/flat/blue.css);
+@import url(../assets/vendor_plugins/iCheck/all.css);
+
+
+@import url(../assets/vendor_components/fullcalendar/fullcalendar.min.css);
+@import "../assets/vendor_components/fullcalendar/fullcalendar.print.min.css" print;
+@import url(../assets/vendor_components/weather-icons/weather-icons.css);
+
+/*# sourceMappingURL=vendors_css.css.map */
